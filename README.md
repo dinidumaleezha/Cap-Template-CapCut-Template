@@ -2,7 +2,25 @@
 
 **Cap Template** is a convenient tool for using pre-made video editing templates from CapCut. Simply import your photos and videos to create stunning edits using templates shared by other creators.
 
-![Cap Template Screenshot](https://via.placeholder.com/500x300) <!-- Replace with actual screenshot -->
+## 🌟 Screenshots
+
+Here are some screenshots of the app in action:
+
+| Home Screen | Music Player | Playlist Creation |
+|-------------|--------------|-------------------|
+| ![Home](images/screenshot1.png) | ![Music Player](images/screenshot2.png) | ![Playlist Creation](images/screenshot3.png) |
+
+| Video Player | Explore | Search |
+|--------------|---------|--------|
+| ![Video Player](images/screenshot4.png) | ![Explore](images/screenshot5.png) | ![Search](images/screenshot6.png) |
+
+| Settings | Dark Mode | Equalizer |
+|----------|-----------|-----------|
+| ![Settings](images/screenshot7.png) | ![Dark Mode](images/screenshot8.png) | ![Equalizer](images/screenshot9.png) |
+
+| Sharing Feature |
+|----------------|
+| ![Sharing](images/screenshot10.png) |
 
 ## 🌟 About Cap Templates
 
@@ -29,7 +47,7 @@ Templates in **CapCut** are video editing presets created by other users, which 
 - **Requires Android**: 5.0 and up
 - **Release Date**: October 17, 2022
 - **Offered By**: Boom Studio LK
-- **Developed By**: Dinidu Maleezha
+- **Developed By**: Dinidu Maleesha
 
 ## 📧 Contact Us
 
