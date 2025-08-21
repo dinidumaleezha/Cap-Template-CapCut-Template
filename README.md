@@ -61,7 +61,7 @@ Easily import your photos and videos to create professional-quality edits in jus
 ## 📧 Contact  
 
 For feedback, support, or inquiries:  
-📩 **Email**: boommusic950@gmail.com  
+📩 **Email**: maleezha1975@gmail.com 
 
 ---
 
