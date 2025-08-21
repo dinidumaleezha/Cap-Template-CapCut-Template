@@ -1,64 +1,64 @@
-# 🎬 Cap Template - CapCut Template
+# 🎬 Cap Template - CapCut Template  
 
-**Cap Template** is a convenient tool for using pre-made video editing templates from CapCut. Simply import your photos and videos to create stunning edits using templates shared by other creators.
+[![Google Play](https://img.shields.io/badge/Download-Google_Play-blue?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.boomstudio.capcuttemplate)
 
-## 🌟 Screenshots
-
-Here are some screenshots of the app in action:
-
-| Home Screen | Music Player | Playlist Creation |
-|-------------|--------------|-------------------|
-| ![Home](images/screenshot1.png) | ![Music Player](images/screenshot2.png) | ![Playlist Creation](images/screenshot3.png) |
-
-| Video Player | Explore | Search |
-|--------------|---------|--------|
-| ![Video Player](images/screenshot4.png) | ![Explore](images/screenshot5.png) | ![Search](images/screenshot6.png) |
-
-| Settings | Dark Mode | Equalizer |
-|----------|-----------|-----------|
-| ![Settings](images/screenshot7.png) | ![Dark Mode](images/screenshot8.png) | ![Equalizer](images/screenshot9.png) |
-
-| Sharing Feature |
-|----------------|
-| ![Sharing](images/screenshot10.png) |
-
-## 🌟 About Cap Templates
-
-Templates in **CapCut** are video editing presets created by other users, which you can apply directly to your videos. These templates allow for fast and easy video editing, enabling you to achieve professional-quality results without needing extensive editing skills.
-
-- All settings are locked in the templates.
-- You can use templates only within CapCut.
-- Import your media to edit using these pre-configured settings.
-
-## 🛠️ Key Features
-
-- 🎥 **Easy Video Creation**: Use pre-made templates to quickly create videos.
-- 🌍 **Community-Based Content**: Explore and use templates shared by other creators.
-- 📸 **Import Media**: Add your photos and videos to customize templates.
-- 🔒 **Locked Settings**: Templates come with pre-configured settings for convenience.
-
-## 🚀 Getting Started
-
-1. Download and install **Cap Template - CapCut Template** from the [Google Play Store](https://play.google.com/store/apps/details?id=com.boomstudio.capcuttemplate).
-2. Open the app, choose a template, and import your photos or videos to start editing.
-
-## 📦 App Information
-
-- **Requires Android**: 5.0 and up
-- **Release Date**: October 17, 2022
-- **Offered By**: Boom Studio LK
-- **Developed By**: Dinidu Maleesha
-
-## 📧 Contact Us
-
-For any inquiries or issues, feel free to contact us:
-
-- 📧 Email: boommusic950@gmail.com
-
-## 📱 App Link
-
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.boomstudio.capcuttemplate)
+**Cap Template** is a lightweight and convenient tool for exploring and using pre-made **CapCut video templates**.  
+Easily import your photos and videos to create professional-quality edits in just a few taps — powered by templates shared by the community.  
 
 ---
 
-© All content used in the app belongs to its respective creators. This app allows the use of CapCut templates with preset configurations.
+## 🌟 Features  
+
+- 🎥 **Quick Video Creation** – Use pre-made CapCut templates for fast and easy editing.  
+- 🌍 **Community Templates** – Explore and apply templates created by other editors.  
+- 📸 **Import Media** – Add your own photos and videos to personalize templates.  
+- 🔒 **Locked Settings** – Templates come with ready-made configurations for convenience.  
+- 🌓 **Dark Mode** – Smooth editing experience with dark mode support.  
+- 🎶 **Music & Effects** – Enhance your edits with pre-configured sound and visuals.  
+
+---
+
+## 📸 Screenshots  
+
+| Home Screen | Video Player | Explore |  
+|-------------|--------------|---------|  
+| ![Home](images/screenshot1.png) | ![Video Player](images/screenshot4.png) | ![Explore](images/screenshot5.png) |  
+
+| Search | Settings | Dark Mode |  
+|--------|----------|-----------|  
+| ![Search](images/screenshot6.png) | ![Settings](images/screenshot7.png) | ![Dark Mode](images/screenshot8.png) |  
+
+| Equalizer | Sharing Feature |  
+|-----------|----------------|  
+| ![Equalizer](images/screenshot9.png) | ![Sharing](images/screenshot10.png) |  
+
+---
+
+## 🚀 Getting Started  
+
+1. Download **Cap Template - CapCut Template** from the [Google Play Store](https://play.google.com/store/apps/details?id=com.boomstudio.capcuttemplate).  
+2. Browse and select a template you like.  
+3. Import your photos/videos and watch them transform into stunning edits.  
+
+---
+
+## 📦 App Information  
+
+- **App Name**: Cap Template - CapCut Template  
+- **Requires Android**: 5.0 and up  
+- **Release Date**: October 17, 2022  
+- **Offered By**: Boom Studio LK  
+- **Developer**: Dinidu Maleesha  
+
+---
+
+## 📧 Contact  
+
+For feedback, support, or inquiries:  
+📩 **Email**: boommusic950@gmail.com  
+
+---
+
+© Boom Studio LK.  
+All templates belong to their respective creators. This app provides access to **CapCut templates** with preset configurations.  
+
