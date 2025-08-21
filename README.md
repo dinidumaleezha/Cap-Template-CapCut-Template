@@ -20,17 +20,22 @@ Easily import your photos and videos to create professional-quality edits in jus
 
 ## 📸 Screenshots  
 
-| Home Screen | Video Player | Explore |  
-|-------------|--------------|---------|  
-| ![Home](images/screenshot1.png) | ![Video Player](images/screenshot4.png) | ![Explore](images/screenshot5.png) |  
-
-| Search | Settings | Dark Mode |  
-|--------|----------|-----------|  
-| ![Search](images/screenshot6.png) | ![Settings](images/screenshot7.png) | ![Dark Mode](images/screenshot8.png) |  
-
-| Equalizer | Sharing Feature |  
-|-----------|----------------|  
-| ![Equalizer](images/screenshot9.png) | ![Sharing](images/screenshot10.png) |  
+<table>
+  <tr>
+    <td><img src="images/screenshot1.png" width="250"/></td>
+    <td><img src="images/screenshot4.png" width="250"/></td>
+    <td><img src="images/screenshot5.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/screenshot6.png" width="250"/></td>
+    <td><img src="images/screenshot7.png" width="250"/></td>
+    <td><img src="images/screenshot8.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/screenshot9.png" width="250"/></td>
+    <td><img src="images/screenshot10.png" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
