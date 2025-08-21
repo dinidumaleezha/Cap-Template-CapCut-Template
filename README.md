@@ -29,11 +29,11 @@ Easily import your photos and videos to create professional-quality edits in jus
   <tr>
     <td><img src="images/Screenshot4.png" width="250"/></td>
     <td><img src="images/Screenshot8.png" width="250"/></td>
-    <td><img src="images/Sscreenshot5.png" width="250"/></td>
+    <td><img src="images/Screenshot5.png" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="images/Screenshot7.png" width="250"/></td>
     <td><img src="images/Screenshot9.png" width="250"/></td>
+    <td><img src="images/Screenshot7.png" width="250"/></td>
     <td><img src="images/Screenshot6.png" width="250"/></td>
   </tr>
 </table>
