@@ -22,8 +22,8 @@ Easily import your photos and videos to create professional-quality edits in jus
 
 <table>
   <tr>
-    <td><img src="images/screenshot1.png" width="250"/></td>
-    <td><img src="images/screenshot4.png" width="250"/></td>
+    <td><img src="images/Screenshot1.png" width="250"/></td>
+    <td><img src="images/Screenshot2.png" width="250"/></td>
     <td><img src="images/screenshot5.png" width="250"/></td>
   </tr>
   <tr>
